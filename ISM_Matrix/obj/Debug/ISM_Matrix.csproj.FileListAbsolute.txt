@@ -1,0 +1,5 @@
+C:\Users\ASUS\source\repos\ISM_Matr\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+C:\Users\ASUS\source\repos\ISM_Matr\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+C:\Users\ASUS\source\repos\ISM_Matr\ClassLibrary1\obj\Debug\ISM_Matrix.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\ISM_Matr\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+C:\Users\ASUS\source\repos\ISM_Matr\ClassLibrary1\obj\Debug\ClassLibrary1.pdb

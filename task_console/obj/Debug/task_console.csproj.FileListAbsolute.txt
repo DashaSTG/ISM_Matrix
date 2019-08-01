@@ -1,0 +1,9 @@
+C:\Users\ASUS\source\repos\ISM_Matr\task_console\bin\Debug\task_console.exe.config
+C:\Users\ASUS\source\repos\ISM_Matr\task_console\bin\Debug\task_console.exe
+C:\Users\ASUS\source\repos\ISM_Matr\task_console\bin\Debug\task_console.pdb
+C:\Users\ASUS\source\repos\ISM_Matr\task_console\obj\Debug\task_console.csprojResolveAssemblyReference.cache
+C:\Users\ASUS\source\repos\ISM_Matr\task_console\obj\Debug\task_console.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\ISM_Matr\task_console\obj\Debug\task_console.exe
+C:\Users\ASUS\source\repos\ISM_Matr\task_console\obj\Debug\task_console.pdb
+C:\Users\ASUS\source\repos\ISM_Matr\task_console\bin\Debug\ClassLibrary1.dll
+C:\Users\ASUS\source\repos\ISM_Matr\task_console\bin\Debug\ClassLibrary1.pdb
